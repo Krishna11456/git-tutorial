@@ -1,5 +1,5 @@
 console.log('index.js');
-console.log('version2');
+console.log('version12');
 
 
 //The staging area is a space where you prepare your changes before committing them. It's like a buffer or a checklist of what you want to include in the next version (commit).
